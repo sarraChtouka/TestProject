@@ -6,5 +6,5 @@ public class testClass {
     int x=2;
     int y=5;
     int z=33;
-    //je suis une modif dans l'IDE
+    //je suis une modif dans Github
 }
