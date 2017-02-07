@@ -4,4 +4,5 @@
 public class testClass {
 
     int x=2;
+    int y=5;
 }
